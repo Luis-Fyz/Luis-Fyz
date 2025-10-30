@@ -7,7 +7,7 @@
 
 - 🔭 No momento estou estudando com **Java, HTML e CSS**
 
-- 🌱 Atualmente estou me aperfeiçoando em **HMTL E CSS**
+- 🌱 Atualmente estou me aperfeiçoando em **HTML E CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
